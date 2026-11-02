@@ -35,7 +35,8 @@ Google Colab with NVCC Compiler
 ```
 !nvidia-smi
 ```
-<img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/4bf6b838-2606-4359-a54b-3aeac3c0b468" />
+<img width="912" height="442" alt="image" src="https://github.com/user-attachments/assets/adca964a-157a-46a9-b942-d9657bea5750" />
+
 
 ```
 !pip install nvcc4jupyter
